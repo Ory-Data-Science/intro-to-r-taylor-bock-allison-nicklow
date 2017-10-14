@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "ppt_data <- read.csv(\"gainesville-precip.csv\", header = FALSE)\nmonthly_mean_ppt <- colMeans(ppt_data)\nplot(monthly_mean_ppt, type = \"l\", xlab = \"Month\", ylab = \"Mean Precipitation\")\n",
+    "created" : 1508009165730.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3808477962",
+    "id" : "62DE373F",
+    "lastKnownWriteTime" : 1508009448,
+    "last_content_update" : 1508009448037,
+    "path" : "~/GitHub/intro-to-r-taylor-bock-allison-nicklow/6.R",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
