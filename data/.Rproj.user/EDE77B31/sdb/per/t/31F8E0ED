@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "shrubs <- read.csv(\"shrub-dimensions-labeled.csv\")\nshrubs$length\nshrubs$width*shrubs$length*shrubs$height\n",
+    "created" : 1508020082594.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1916554701",
+    "id" : "31F8E0ED",
+    "lastKnownWriteTime" : 1508022103,
+    "last_content_update" : 1508022103427,
+    "path" : "~/GitHub/intro-to-r-taylor-bock-allison-nicklow/9.R",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
