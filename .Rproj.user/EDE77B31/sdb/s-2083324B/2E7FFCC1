@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "site1_g_carbon_m2_day <- 5\nsite2_g_carbon_m2_day <- 2.3\nsite1_area_m2 <- 200\nsite2_area_m2 <- 450\nsite1_npp_day <- site1_g_carbon_m2_day * site1_area_m2\nsite2_npp_day <- site2_g_carbon_m2_day * site2_area_m2\nsite1_g_carbon_m2_day <- 5\nsite2_g_carbon_m2_day <- 2.3\nsite1_area_m2 <- 200\nsite2_area_m2 <- 450\nsite1_npp_day <- site1_g_carbon_m2_day * site1_area_m2\nsite2_npp_day <- site2_g_carbon_m2_day * site2_area_m2\nprint(site1_npp_day)\nprint(site2_npp_day)\nsum(site1_npp_day, site2_npp_day)\nabs(site1_npp_day, site2_npp_day)\nabs(site1_npp_day - site2_npp_day)\n\n",
+    "created" : 1508006653951.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "328817509",
+    "id" : "2E7FFCC1",
+    "lastKnownWriteTime" : 1508007783,
+    "last_content_update" : 1508007783443,
+    "path" : "~/GitHub/intro-to-r-taylor-bock-allison-nicklow/5.R",
+    "project_path" : "5.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
